@@ -1,6 +1,6 @@
 # Threat Hunt Case Study: CrossCheck
 
-> This document is a threat hunt case study. All original hunt flags are explicitly preserved, numbered, and expanded with screenshots and KQL queries.
+> This document is a threat hunt case study. All original hunt flags are explicitly preserved, numbered, and expanded with screenshots and KQL queries. This threat hunt was originally completed in a lab environment.
 
 ---
 
